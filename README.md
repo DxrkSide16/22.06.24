@@ -1,4 +1,6 @@
 # to do list
-- [ ] frg
-- [ ] jjj
-- [x] bbb
+- [ ] motyzka
+- [ ] lopata
+- [x] fortnite 
+- i see you:Morti
+- 
